@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a **Full-Stack Web Developer** passionate about buildi
 
 ## 💼 Current Work
 - Working as a freelance web developer With Karachi Based Web Dev Agency.
-- Building custom e-commerce and dropshipping stores
+- Looking For Opportunities.
 
 ---
 
