@@ -2,9 +2,6 @@
 
 Welcome to my GitHub! 🚀 I'm a passionate **Full-Stack Web Developer** with a strong focus on creating scalable, user-centric applications. My expertise lies in modern technologies like **Next.js**, **React.js**, **Node.js**, **MongoDB**, and more, allowing me to craft efficient solutions tailored to your unique needs.
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=qetada-alvi.qetada-alvi)
-
-
 ---
 
 ## 🚀 **About Me**
