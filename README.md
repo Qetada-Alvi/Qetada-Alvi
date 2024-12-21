@@ -2,7 +2,8 @@
 
 Welcome to my GitHub! 🚀 I'm a passionate **Full-Stack Web Developer** with a strong focus on creating scalable, user-centric applications. My expertise lies in modern technologies like **Next.js**, **React.js**, **Node.js**, **MongoDB**, and more, allowing me to craft efficient solutions tailored to your unique needs.
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=qetada-alvi.qetada-alvi)
+![Visitor Badge](https://badges.strou.dev/visitor-badge/qetada-alvi)
+
 
 ---
 
@@ -28,13 +29,6 @@ Welcome to my GitHub! 🚀 I'm a passionate **Full-Stack Web Developer** with a 
 🔗 **LinkedIn**: [Alvi on LinkedIn](https://www.linkedin.com/in/qetada-alvi-9307b3268/)  
 📧 **Email**: [qetadaalvi@gmail.com](mailto:qetadaalvi@gmail.com)  
 📂 Check out my **Projects** below for my latest work!  
-
----
-
-## 🚀 **Highlighted Projects**  
-- **[Project Name 1]**: A modern, responsive full-stack app using Next.js and MongoDB for seamless user experience.
-- **[Project Name 2]**: Built an interactive dashboard using React.js, leveraging APIs and dynamic data updates.
-- **[Project Name 3]**: Developed a real-time chat application using Node.js and WebSockets.
 
 ---
 
