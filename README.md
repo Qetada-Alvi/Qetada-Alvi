@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Alvi! 
 
-Welcome to my GitHub! 🚀 I'm a passionate **Full-Stack Web Developer** with a strong focus on creating scalable, user-centric applications. My expertise lies in modern technologies like **Next.js**, **React.js**, **Node.js**, **MongoDB**, and more, allowing me to craft efficient solutions tailored to your unique needs.
+Welcome to my GitHub! 🚀 I'm a passionate **Front-End Web Developer** with a strong focus on creating scalable, user-centric applications. My expertise lies in modern technologies like **Next.js**, **React.js**, **Node.js**, **MongoDB**, and more, allowing me to craft efficient solutions tailored to your unique needs.
 
-![Visitor Badge](https://hits.dwyl.com/Qetada-Alvi/Qetada-Alvi.svg)
 ---
 
 ## 🚀 **About Me**
